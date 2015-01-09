@@ -1,0 +1,8 @@
+# Ignore all binary files
+*
+!*.*
+*.o
+*.hi
+
+# Ignore OS X garbages
+*.DS_Store
